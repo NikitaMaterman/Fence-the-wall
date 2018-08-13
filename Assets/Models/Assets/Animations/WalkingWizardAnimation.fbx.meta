@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: 3f4698a3b437a2245b3866bb531216bd
+timeCreated: 1533320884
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: ball
+    100002: broek
+    100004: broek 1
+    100006: hand
+    100008: hand1
+    100010: hoofd
+    100012: hoofd 1
+    100014: jas
+    100016: kraag
+    100018: linker_arm
+    100020: linker_been
+    100022: mouw
+    100024: mouw 1
+    100026: muts
+    100028: ogen
+    100030: oog
+    100032: oog1
+    100034: rechter_arm
+    100036: rechter_been
+    100038: schoen
+    100040: schoen 1
+    100042: staff
+    100044: //RootNode
+    100046: wand
+    400000: ball
+    400002: broek
+    400004: broek 1
+    400006: hand
+    400008: hand1
+    400010: hoofd
+    400012: hoofd 1
+    400014: jas
+    400016: kraag
+    400018: linker_arm
+    400020: linker_been
+    400022: mouw
+    400024: mouw 1
+    400026: muts
+    400028: ogen
+    400030: oog
+    400032: oog1
+    400034: rechter_arm
+    400036: rechter_been
+    400038: schoen
+    400040: schoen 1
+    400042: staff
+    400044: //RootNode
+    400046: wand
+    2300000: ball
+    2300002: broek
+    2300004: broek 1
+    2300006: hand
+    2300008: hand1
+    2300010: hoofd 1
+    2300012: jas
+    2300014: kraag
+    2300016: mouw
+    2300018: mouw 1
+    2300020: muts
+    2300022: oog
+    2300024: oog1
+    2300026: schoen
+    2300028: schoen 1
+    2300030: staff
+    3300000: ball
+    3300002: broek
+    3300004: broek 1
+    3300006: hand
+    3300008: hand1
+    3300010: hoofd 1
+    3300012: jas
+    3300014: kraag
+    3300016: mouw
+    3300018: mouw 1
+    3300020: muts
+    3300022: oog
+    3300024: oog1
+    3300026: schoen
+    3300028: schoen 1
+    3300030: staff
+    4300000: kraag
+    4300002: jas
+    4300004: mouw
+    4300006: hand
+    4300008: hand1
+    4300010: mouw
+    4300012: ball
+    4300014: staff
+    4300016: broek
+    4300018: schoen
+    4300020: broek
+    4300022: schoen
+    4300024: muts
+    4300026: oog
+    4300028: oog1
+    4300030: hoofd
+    7400000: walking
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 62307fbd72bd6d14bb75d2c855ac4e71, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walking
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 160
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 80
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

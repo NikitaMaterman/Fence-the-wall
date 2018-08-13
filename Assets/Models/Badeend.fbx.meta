@@ -1,0 +1,397 @@
+fileFormatVersion: 2
+guid: 423b8315412e4e247b2e9547772571d2
+timeCreated: 1533324173
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: achter_Deur
+    100002: achter_deur
+    100004: //RootNode
+    100006: balk
+    100008: balk 1
+    100010: balk 2
+    100012: bek
+    100014: boot
+    100016: boot 1
+    100018: dak
+    100020: eend
+    100022: eend 1
+    100024: Handel
+    100026: Handel 1
+    100028: Handel 2
+    100030: Handel 3
+    100032: Handel1
+    100034: huisje
+    100036: kleinste_balk
+    100038: kleinste_balk 1
+    100040: kleinste_balk 2
+    100042: kleinste_balk1
+    100044: kleinste_balk2
+    100046: langste_balk
+    100048: langste_balk 1
+    100050: langste_balk 2
+    100052: net
+    100054: oog
+    100056: oog_2
+    100058: pCube1
+    100060: pCube4
+    100062: pCube4 1
+    100064: pCube5
+    100066: pCube5 1
+    100068: pCube6
+    100070: pCube6 1
+    100072: pCube8
+    100074: pCube8 1
+    100076: pCube9
+    100078: pCube9 1
+    100080: pCylinder1
+    100082: propellor
+    100084: reet_vin
+    100086: reling_links
+    100088: reling_rechts
+    100090: rondje
+    100092: rondje 1
+    100094: Touw_handel_achter
+    100096: Touw_handel_links
+    100098: Touw_handel_rechts
+    100100: Touw_handel_voor
+    100102: Touw_handel_voor 1
+    100104: touw_links
+    100106: touw_links 1
+    100108: touw_rechts
+    100110: touw_rond
+    100112: touw_rond 1
+    100114: touw_rond 2
+    100116: touw_rond 3
+    100118: touw_rond1
+    100120: touw_rond1 1
+    100122: touw_rond2
+    100124: vleugel_links
+    100126: Vleugel_net
+    100128: Vleugel_net1
+    100130: vleugel_rechts
+    100132: Voor_Deur
+    100134: Voor_deur
+    100136: voorste_balk
+    100138: voorste_balk 1
+    100140: voorste_balk 2
+    400000: achter_Deur
+    400002: achter_deur
+    400004: //RootNode
+    400006: balk
+    400008: balk 1
+    400010: balk 2
+    400012: bek
+    400014: boot
+    400016: boot 1
+    400018: dak
+    400020: eend
+    400022: eend 1
+    400024: Handel
+    400026: Handel 1
+    400028: Handel 2
+    400030: Handel 3
+    400032: Handel1
+    400034: huisje
+    400036: kleinste_balk
+    400038: kleinste_balk 1
+    400040: kleinste_balk 2
+    400042: kleinste_balk1
+    400044: kleinste_balk2
+    400046: langste_balk
+    400048: langste_balk 1
+    400050: langste_balk 2
+    400052: net
+    400054: oog
+    400056: oog_2
+    400058: pCube1
+    400060: pCube4
+    400062: pCube4 1
+    400064: pCube5
+    400066: pCube5 1
+    400068: pCube6
+    400070: pCube6 1
+    400072: pCube8
+    400074: pCube8 1
+    400076: pCube9
+    400078: pCube9 1
+    400080: pCylinder1
+    400082: propellor
+    400084: reet_vin
+    400086: reling_links
+    400088: reling_rechts
+    400090: rondje
+    400092: rondje 1
+    400094: Touw_handel_achter
+    400096: Touw_handel_links
+    400098: Touw_handel_rechts
+    400100: Touw_handel_voor
+    400102: Touw_handel_voor 1
+    400104: touw_links
+    400106: touw_links 1
+    400108: touw_rechts
+    400110: touw_rond
+    400112: touw_rond 1
+    400114: touw_rond 2
+    400116: touw_rond 3
+    400118: touw_rond1
+    400120: touw_rond1 1
+    400122: touw_rond2
+    400124: vleugel_links
+    400126: Vleugel_net
+    400128: Vleugel_net1
+    400130: vleugel_rechts
+    400132: Voor_Deur
+    400134: Voor_deur
+    400136: voorste_balk
+    400138: voorste_balk 1
+    400140: voorste_balk 2
+    2300000: achter_Deur
+    2300002: balk
+    2300004: balk 1
+    2300006: balk 2
+    2300008: bek
+    2300010: boot 1
+    2300012: dak
+    2300014: eend 1
+    2300016: Handel
+    2300018: Handel 1
+    2300020: Handel 2
+    2300022: Handel 3
+    2300024: Handel1
+    2300026: huisje
+    2300028: kleinste_balk
+    2300030: kleinste_balk 1
+    2300032: kleinste_balk 2
+    2300034: kleinste_balk1
+    2300036: kleinste_balk2
+    2300038: langste_balk
+    2300040: langste_balk 1
+    2300042: langste_balk 2
+    2300044: net
+    2300046: oog
+    2300048: oog_2
+    2300050: pCube1
+    2300052: pCube4
+    2300054: pCube4 1
+    2300056: pCube5
+    2300058: pCube5 1
+    2300060: pCube6
+    2300062: pCube6 1
+    2300064: pCube8
+    2300066: pCube8 1
+    2300068: pCube9
+    2300070: pCube9 1
+    2300072: pCylinder1
+    2300074: rondje
+    2300076: rondje 1
+    2300078: touw_links
+    2300080: touw_links 1
+    2300082: touw_rechts
+    2300084: touw_rond
+    2300086: touw_rond 1
+    2300088: touw_rond 2
+    2300090: touw_rond 3
+    2300092: touw_rond1
+    2300094: touw_rond1 1
+    2300096: touw_rond2
+    2300098: Vleugel_net
+    2300100: Vleugel_net1
+    2300102: Voor_Deur
+    2300104: voorste_balk
+    2300106: voorste_balk 1
+    2300108: voorste_balk 2
+    3300000: achter_Deur
+    3300002: balk
+    3300004: balk 1
+    3300006: balk 2
+    3300008: bek
+    3300010: boot 1
+    3300012: dak
+    3300014: eend 1
+    3300016: Handel
+    3300018: Handel 1
+    3300020: Handel 2
+    3300022: Handel 3
+    3300024: Handel1
+    3300026: huisje
+    3300028: kleinste_balk
+    3300030: kleinste_balk 1
+    3300032: kleinste_balk 2
+    3300034: kleinste_balk1
+    3300036: kleinste_balk2
+    3300038: langste_balk
+    3300040: langste_balk 1
+    3300042: langste_balk 2
+    3300044: net
+    3300046: oog
+    3300048: oog_2
+    3300050: pCube1
+    3300052: pCube4
+    3300054: pCube4 1
+    3300056: pCube5
+    3300058: pCube5 1
+    3300060: pCube6
+    3300062: pCube6 1
+    3300064: pCube8
+    3300066: pCube8 1
+    3300068: pCube9
+    3300070: pCube9 1
+    3300072: pCylinder1
+    3300074: rondje
+    3300076: rondje 1
+    3300078: touw_links
+    3300080: touw_links 1
+    3300082: touw_rechts
+    3300084: touw_rond
+    3300086: touw_rond 1
+    3300088: touw_rond 2
+    3300090: touw_rond 3
+    3300092: touw_rond1
+    3300094: touw_rond1 1
+    3300096: touw_rond2
+    3300098: Vleugel_net
+    3300100: Vleugel_net1
+    3300102: Voor_Deur
+    3300104: voorste_balk
+    3300106: voorste_balk 1
+    3300108: voorste_balk 2
+    4300000: eend
+    4300002: pCylinder1
+    4300004: pCube1
+    4300006: oog_2
+    4300008: oog
+    4300010: touw_rond1
+    4300012: touw_rond
+    4300014: Handel
+    4300016: touw_rond2
+    4300018: Handel1
+    4300020: bek
+    4300022: rondje
+    4300024: kleinste_balk
+    4300026: balk
+    4300028: langste_balk
+    4300030: voorste_balk
+    4300032: Vleugel_net1
+    4300034: rondje
+    4300036: kleinste_balk
+    4300038: balk
+    4300040: Vleugel_net
+    4300042: langste_balk
+    4300044: voorste_balk
+    4300046: kleinste_balk
+    4300048: balk
+    4300050: langste_balk
+    4300052: voorste_balk
+    4300054: kleinste_balk1
+    4300056: kleinste_balk2
+    4300058: net
+    4300060: pCube4
+    4300062: pCube5
+    4300064: pCube6
+    4300066: pCube8
+    4300068: pCube9
+    4300070: pCube4
+    4300072: pCube5
+    4300074: pCube6
+    4300076: pCube8
+    4300078: pCube9
+    4300080: Voor_Deur
+    4300082: achter_Deur
+    4300084: touw_rond1
+    4300086: touw_rond
+    4300088: Handel
+    4300090: touw_rechts
+    4300092: touw_rond
+    4300094: Handel
+    4300096: touw_links
+    4300098: touw_rond
+    4300100: Handel
+    4300102: touw_links
+    4300104: dak
+    4300106: boot
+    4300108: huisje
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 62307fbd72bd6d14bb75d2c855ac4e71, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 130
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
